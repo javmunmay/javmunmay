@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Javier Muñoz</h1>
-<h3 align="center">DAW Delegado 1º Tardes, apasionado por gestionar equipos de trabajo eficientes, ser el líder del grupo y así liderar mi equipo para ser el mejor.</h3>
+<h3 align="center">DAW.</h3>
 
 - 🔭 Actualmente estoy trabajando en **mi proyecto personal**
 
