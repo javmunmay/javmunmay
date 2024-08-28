@@ -9,7 +9,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">Puede contactar conmigo por:</p>
-<p align="left">Correo: [javi15mmj2@gmail.com](mailto:javi15mmj2@gmail.com)</p>
+<p align="left">Correo: javi15mmj2@gmail.com </p>
 
 
 <h4 align="left">Idiomas y herramientas:</h4>
