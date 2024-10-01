@@ -1,7 +1,9 @@
 <h1 align="center">Javier Muñoz Mayorga</h1>
-<h2 align="center">Desarrollador de Aplicaciones Web.</h2>
+<h2 align="center">Full Stack Developer</h2>
 
-- 🔭 Actualmente estoy trabajando en **mi proyecto personal**, utilizando tecnologías como Java, HTML, CSS, SQL, y PL/SQL. Trabajo principalmente con IntelliJ.
+- 🔭 Desarrollador web con una sólida formación en HTML, CSS, JavaScript, Angular, PrimeNG, Bootstrap, y otras tecnologías clave, listo para dar el siguiente paso en mi carrera profesional. Actualmente estoy finalizando mis estudios en IES Velázquez (Sevilla) y busco una oportunidad para realizar prácticas donde pueda aplicar mis conocimientos en proyectos reales.
+
+Estoy comprometido con mi desarrollo continuo, participando activamente en cursos adicionales para ampliar y actualizar mis habilidades. Mi pasión por la tecnología y el diseño de soluciones innovadoras me impulsa a aprender y mejorar constantemente. Estoy preparado para enfrentar nuevos desafíos y contribuir con un enfoque proactivo y orientado a la resolución de problemas. Ansío unirme a un equipo donde pueda crecer profesionalmente y aportar valor desde el primer día.
 
 - 💬 Pregúntame sobre **proyectos, páginas web, bases de datos...etc**
 
